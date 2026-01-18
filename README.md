@@ -1,9 +1,8 @@
 # 3d-obj-loader
 A simple 3d file loader implemented in c with its on triangle and line restarizers.
 
-
-There are two main.h files here . One has all the functions we wrote in the course one one has none. This means one is for your reference and other is for you to 
-write from scratch. The file includes the properly scaled deer.obj and cube.obj without normals. If you want the normals you have to import them in blender and export with normals checked. 
+The file includes the properly scaled deer.obj with normals.  export your own cube or deer accordingly from blender if needed. 
+Its hard for me to include everything .
 
 the early phase uses simple cube coordinates to print in screen here is its structure. 
 
